@@ -37,3 +37,5 @@ php fibers.php
 
 >To run using Fibers it is necessary to use PHP 8.1
 
+## Test:
+For the test, I used the php memory in `php.ini`
